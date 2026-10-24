@@ -1,4 +1,4 @@
-\# Contact Extractor
+# Contact Extractor
 
 
 
@@ -6,27 +6,27 @@ A Streamlit app for extracting emails, phone numbers, and URLs from pasted text 
 
 
 
-\[!\[Open in Streamlit](https://static.streamlit.io/badges/streamlit\_badge\_black\_white.svg)](https://jbc-contact-extractor-app.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jbc-contact-extractor-app.streamlit.app/)
 
 
 
-\## Features
+## Features
 
 
 
-\- Extract one, two, or all three data types.
+- Extract one, two, or all three data types.
 
-\- Display results in a table.
+- Display results in a table.
 
-\- Save selected results to SQLite.
+- Save selected results to SQLite.
 
-\- Download results as CSV.
+- Download results as CSV.
 
-\- View and download saved data.
+- View and download saved data.
 
 
 
-\## Developer
+## Developer
 
 
 
