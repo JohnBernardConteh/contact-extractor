@@ -2,9 +2,7 @@
 
 
 
-A Streamlit app for extracting emails, phone numbers, and URLs
-
-from pasted text or web-search HTML.
+A Streamlit app for extracting emails, phone numbers, and URLs from pasted text or web-search HTML.
 
 
 
@@ -25,8 +23,6 @@ from pasted text or web-search HTML.
 \- Download results as CSV.
 
 \- View and download saved data.
-
-
 
 
 
